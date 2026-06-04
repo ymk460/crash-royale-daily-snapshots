@@ -20,9 +20,25 @@ https://<owner>.github.io/crash-royale-daily-snapshots/index.json
 
 ## ローカル実行
 
+macOS では `pip` コマンドが無いことが多いです。次のどちらかを使ってください。
+
 ```bash
+cd ~/Documents/crash-royale-daily-snapshots
+
+# 依存関係（どちらか）
+python3 -m pip install -r requirements.txt
+# または
+pip3 install -r requirements.txt
+
 export CR_TOKEN='your-token'
 python3 scripts/collect_leaderboard_decks.py --limit 100 --output-dir docs
+```
+
+Homebrew の Python 3.12 を使う場合:
+
+```bash
+/opt/homebrew/bin/python3.12 -m pip install -r requirements.txt
+/opt/homebrew/bin/python3.12 scripts/collect_leaderboard_decks.py --limit 100
 ```
 
 ## JSON（v1: `leaderboard-decks`）
