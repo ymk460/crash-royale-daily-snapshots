@@ -5,16 +5,22 @@
   "latest" : "20260605",
   "leaderboards" : [
     {
+      "directory" : "3x-elixir-tournament",
+      "id" : 550020,
+      "latest" : "20260605",
+      "name" : "3x Elixir Tournament"
+    },
+    {
       "directory" : "ranking",
       "id" : 57000000,
       "latest" : "20260605",
       "name" : "Ranked"
     },
     {
-      "directory" : "retro-royale-170000005",
-      "id" : 170000005,
+      "directory" : "touch-down",
+      "id" : 170000018,
       "latest" : "20260605",
-      "name" : "Retro Royale"
+      "name" : "Touchdown"
     }
   ],
   "schemaVersion" : 2
