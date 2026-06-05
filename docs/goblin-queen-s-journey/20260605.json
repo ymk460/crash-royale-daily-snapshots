@@ -1,0 +1,247 @@
+{
+  "aggregatedDecks" : [
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 12,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000001,
+          "level" : 12,
+          "name" : "Archers"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000005,
+          "level" : 12,
+          "name" : "Minions"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 12,
+          "name" : "Arrows"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 9,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000003,
+          "level" : 10,
+          "name" : "Giant"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000014,
+          "level" : 10,
+          "name" : "Musketeer"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000018,
+          "level" : 9,
+          "name" : "Mini P.E.K.K.A"
+        }
+      ],
+      "id" : "26000000-26000001-26000003-26000005-26000014-26000018-28000000-28000001",
+      "owners" : [
+        {
+          "name" : "Blake",
+          "rank" : 2,
+          "tag" : "#UJ2R9JVJ2",
+          "trophies" : 4865
+        },
+        {
+          "name" : "zaid",
+          "rank" : 3,
+          "tag" : "#URRRLYGYJ",
+          "trophies" : 5576
+        },
+        {
+          "name" : "Andrey",
+          "rank" : 5,
+          "tag" : "#VVLGV092U",
+          "trophies" : 6632
+        },
+        {
+          "name" : "Joel",
+          "rank" : 9,
+          "tag" : "#UJUJCYCC2",
+          "trophies" : 4222
+        }
+      ],
+      "usageCount" : 4
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 13,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000001,
+          "level" : 12,
+          "name" : "Archers"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000005,
+          "level" : 12,
+          "name" : "Minions"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 12,
+          "name" : "Arrows"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 11,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000003,
+          "level" : 9,
+          "name" : "Giant"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000014,
+          "level" : 9,
+          "name" : "Musketeer"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000019,
+          "level" : 12,
+          "name" : "Spear Goblins"
+        }
+      ],
+      "id" : "26000000-26000001-26000003-26000005-26000014-26000019-28000000-28000001",
+      "owners" : [
+        {
+          "name" : "zero",
+          "rank" : 1,
+          "tag" : "#VP20YCQY2",
+          "trophies" : 4270
+        },
+        {
+          "name" : "Giuseppe",
+          "rank" : 4,
+          "tag" : "#URGPJY8Y2",
+          "trophies" : 4321
+        },
+        {
+          "name" : "tim",
+          "rank" : 10,
+          "tag" : "#VV8CY8CQQ",
+          "trophies" : 6385
+        }
+      ],
+      "usageCount" : 3
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 13,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000001,
+          "level" : 12,
+          "name" : "Archers"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000005,
+          "level" : 12,
+          "name" : "Minions"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 12,
+          "name" : "Arrows"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 9,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000003,
+          "level" : 9,
+          "name" : "Giant"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000014,
+          "level" : 10,
+          "name" : "Musketeer"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000002,
+          "level" : 12,
+          "name" : "Goblins"
+        }
+      ],
+      "id" : "26000000-26000001-26000002-26000003-26000005-26000014-28000000-28000001",
+      "owners" : [
+        {
+          "name" : "alessia",
+          "rank" : 6,
+          "tag" : "#VJPYC8880",
+          "trophies" : 6218
+        },
+        {
+          "name" : "nikolas",
+          "rank" : 7,
+          "tag" : "#UC9RVJLLR",
+          "trophies" : 5760
+        },
+        {
+          "name" : "Cristian",
+          "rank" : 8,
+          "tag" : "#URGLY0LLL",
+          "trophies" : 6592
+        }
+      ],
+      "usageCount" : 3
+    }
+  ],
+  "date" : "20260605",
+  "generatedAt" : "2026-06-05T01:21:34Z",
+  "kind" : "leaderboard-decks",
+  "leaderboard" : {
+    "id" : 170000001,
+    "name" : "Goblin Queen's Journey"
+  },
+  "schemaVersion" : 1,
+  "stats" : {
+    "playersFailed" : 0,
+    "playersWithDeck" : 10,
+    "rankingCount" : 10,
+    "requestedLimit" : 10,
+    "uniqueDecks" : 3
+  }
+}
