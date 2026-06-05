@@ -1,0 +1,21 @@
+{
+  "dates" : [
+    "20260605"
+  ],
+  "latest" : "20260605",
+  "leaderboards" : [
+    {
+      "directory" : "ranking",
+      "id" : 57000000,
+      "latest" : "20260605",
+      "name" : "Ranked"
+    },
+    {
+      "directory" : "clan_ranking",
+      "id" : 58000000,
+      "latest" : "20260605",
+      "name" : "Clan Ranking"
+    }
+  ],
+  "schemaVersion" : 2
+}
