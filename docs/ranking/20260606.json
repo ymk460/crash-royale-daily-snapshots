@@ -1,0 +1,4808 @@
+{
+  "aggregatedDecks" : [
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 27000000,
+          "level" : 16,
+          "name" : "Cannon"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000038,
+          "level" : 14,
+          "name" : "Ice Golem"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000014,
+          "level" : 14,
+          "name" : "Musketeer"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000021,
+          "level" : 14,
+          "name" : "Hog Rider"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000030,
+          "level" : 16,
+          "name" : "Ice Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        }
+      ],
+      "id" : "26000010-26000014-26000021-26000030-26000038-27000000-28000000-28000011",
+      "owners" : [
+        {
+          "name" : "marcel_p",
+          "rank" : 12,
+          "tag" : "#Y8VG0QY08",
+          "trophies" : 12705
+        },
+        {
+          "name" : "❤️l Huseein ❤️",
+          "rank" : 17,
+          "tag" : "#QJYLCQQJP",
+          "trophies" : 10174
+        },
+        {
+          "name" : "pisun2metra",
+          "rank" : 45,
+          "tag" : "#2YJQLC9QY",
+          "trophies" : 14000
+        },
+        {
+          "name" : "HC｜Fernando✨",
+          "rank" : 50,
+          "tag" : "#CVJPJLUQ0",
+          "trophies" : 10565
+        },
+        {
+          "name" : "Flash Light",
+          "rank" : 65,
+          "tag" : "#UYL8820RJ",
+          "trophies" : 14000
+        },
+        {
+          "name" : "Emre❤️파스토",
+          "rank" : 71,
+          "tag" : "#9YR2CU2G0",
+          "trophies" : 11032
+        },
+        {
+          "name" : "YersonCz",
+          "rank" : 78,
+          "tag" : "#GQYLLP9R0",
+          "trophies" : 10391
+        },
+        {
+          "name" : "o my days",
+          "rank" : 85,
+          "tag" : "#CQQQ2VUPY",
+          "trophies" : 10060
+        },
+        {
+          "name" : "ＭＡＫＡＲＯＶ",
+          "rank" : 87,
+          "tag" : "#208RLJ09G",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 9
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 26000001,
+          "level" : 15,
+          "name" : "Archers"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 16,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000006,
+          "level" : 15,
+          "name" : "Tesla"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 15,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 27000008,
+          "level" : 10,
+          "name" : "X-Bow"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 15,
+          "name" : "Electro Spirit"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        }
+      ],
+      "id" : "26000000-26000001-26000010-26000084-27000006-27000008-28000000-28000011",
+      "owners" : [
+        {
+          "name" : "BU |⚡AmaR⚡™️",
+          "rank" : 5,
+          "tag" : "#9L8P8GV9L",
+          "trophies" : 10230
+        },
+        {
+          "name" : "sant 444 ﾅﾅ",
+          "rank" : 28,
+          "tag" : "#2RCYLGU2C",
+          "trophies" : 13773
+        },
+        {
+          "name" : "Light Work",
+          "rank" : 52,
+          "tag" : "#U2LYQJQVY",
+          "trophies" : 14000
+        },
+        {
+          "name" : "Betfas",
+          "rank" : 62,
+          "tag" : "#V0L800PUJ",
+          "trophies" : 11500
+        }
+      ],
+      "usageCount" : 4
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000011,
+          "level" : 13,
+          "name" : "Valkyrie"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000002,
+          "level" : 16,
+          "name" : "Goblins"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000045,
+          "level" : 10,
+          "name" : "Executioner"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000021,
+          "level" : 13,
+          "name" : "Hog Rider"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000030,
+          "level" : 15,
+          "name" : "Ice Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000012,
+          "level" : 10,
+          "name" : "Tornado"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000003,
+          "level" : 13,
+          "name" : "Rocket"
+        }
+      ],
+      "id" : "26000002-26000011-26000021-26000030-26000045-28000003-28000011-28000012",
+      "owners" : [
+        {
+          "name" : "G❄️at Beethoven",
+          "rank" : 30,
+          "tag" : "#LYVRPV22Q",
+          "trophies" : 10030
+        },
+        {
+          "name" : "부정선거",
+          "rank" : 33,
+          "tag" : "#VRYRUY8V0",
+          "trophies" : 12343
+        },
+        {
+          "name" : "ElPsyCongroo",
+          "rank" : 43,
+          "tag" : "#U8J0GQ02U",
+          "trophies" : 12142
+        },
+        {
+          "name" : "DaniGamer",
+          "rank" : 80,
+          "tag" : "#PY9LJCYV",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 4
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 28000004,
+          "level" : 11,
+          "name" : "Goblin Barrel"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000002,
+          "level" : 16,
+          "name" : "Goblins"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000011,
+          "level" : 14,
+          "name" : "Valkyrie"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000031,
+          "level" : 16,
+          "name" : "Fire Spirit"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000003,
+          "level" : 14,
+          "name" : "Rocket"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000058,
+          "level" : 11,
+          "name" : "Wall Breakers"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000040,
+          "level" : 14,
+          "name" : "Dart Goblin"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000030,
+          "level" : 16,
+          "name" : "Ice Spirit"
+        }
+      ],
+      "id" : "26000002-26000011-26000030-26000031-26000040-26000058-28000003-28000004",
+      "owners" : [
+        {
+          "name" : "Hypno❤️Firecr.",
+          "rank" : 1,
+          "tag" : "#208RCR2CC0",
+          "trophies" : 10030
+        },
+        {
+          "name" : "Falcony ♆ 擴大機",
+          "rank" : 7,
+          "tag" : "#CRLLCV8P0",
+          "trophies" : 14000
+        },
+        {
+          "name" : "R2ITL❤️Majed",
+          "rank" : 61,
+          "tag" : "#Y2Q8YCY0R",
+          "trophies" : 13027
+        }
+      ],
+      "usageCount" : 3
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 27000000,
+          "level" : 16,
+          "name" : "Cannon"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 16,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000017,
+          "level" : 16,
+          "name" : "Giant Snowball"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000003,
+          "level" : 14,
+          "name" : "Rocket"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000013,
+          "level" : 11,
+          "name" : "Goblin Drill"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000031,
+          "level" : 16,
+          "name" : "Fire Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000013,
+          "level" : 16,
+          "name" : "Bomber"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        }
+      ],
+      "id" : "26000000-26000010-26000013-26000031-27000000-27000013-28000003-28000017",
+      "owners" : [
+        {
+          "name" : "evolve✨律师",
+          "rank" : 6,
+          "tag" : "#898Y8PGJ9",
+          "trophies" : 14000
+        },
+        {
+          "name" : "Brqko_x",
+          "rank" : 37,
+          "tag" : "#CRYUCRVUG",
+          "trophies" : 11777
+        },
+        {
+          "name" : "Luccas",
+          "rank" : 70,
+          "tag" : "#V2Q09RG0V",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 3
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 6,
+          "id" : 26000024,
+          "level" : 16,
+          "name" : "Royal Giant"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000050,
+          "level" : 8,
+          "name" : "Royal Ghost"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000044,
+          "level" : 11,
+          "name" : "Hunter"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000061,
+          "level" : 8,
+          "name" : "Fisherman"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 16,
+          "name" : "Electro Spirit"
+        }
+      ],
+      "id" : "26000010-26000024-26000044-26000050-26000061-26000084-28000000-28000015",
+      "owners" : [
+        {
+          "name" : "Klaus✨GB",
+          "rank" : 3,
+          "tag" : "#2J9CR89",
+          "trophies" : 12113
+        },
+        {
+          "name" : "枫｜rakan❤️安之",
+          "rank" : 9,
+          "tag" : "#JQ2V2JJ8G",
+          "trophies" : 13023
+        }
+      ],
+      "usageCount" : 2
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000035,
+          "level" : 8,
+          "name" : "Lumberjack"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000018,
+          "level" : 14,
+          "name" : "Mini P.E.K.K.A"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 16,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000048,
+          "level" : 8,
+          "name" : "Night Witch"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 16,
+          "name" : "Arrows"
+        },
+        {
+          "elixirCost" : 8,
+          "id" : 26000009,
+          "level" : 11,
+          "name" : "Golem"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000087,
+          "level" : 8,
+          "name" : "Phoenix"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000013,
+          "level" : 16,
+          "name" : "Bomber"
+        }
+      ],
+      "id" : "26000009-26000013-26000018-26000035-26000048-26000087-28000001-28000008",
+      "owners" : [
+        {
+          "name" : "✨火王Fireking✨",
+          "rank" : 26,
+          "tag" : "#V9U9LQJ02",
+          "trophies" : 10557
+        },
+        {
+          "name" : "LF丨绘梨衣✨柒安❤️和韧",
+          "rank" : 88,
+          "tag" : "#V2YPU2VRR",
+          "trophies" : 10000
+        }
+      ],
+      "usageCount" : 2
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000006,
+          "level" : 11,
+          "name" : "Balloon"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000014,
+          "level" : 14,
+          "name" : "Musketeer"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000004,
+          "level" : 14,
+          "name" : "Bomb Tower"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000032,
+          "level" : 8,
+          "name" : "Miner"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000017,
+          "level" : 16,
+          "name" : "Giant Snowball"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000038,
+          "level" : 14,
+          "name" : "Ice Golem"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        }
+      ],
+      "id" : "26000006-26000010-26000014-26000032-26000038-27000004-28000015-28000017",
+      "owners" : [
+        {
+          "name" : "ToGRuL #1",
+          "rank" : 54,
+          "tag" : "#V2UCC0LC2",
+          "trophies" : 12323
+        },
+        {
+          "name" : "OPL｜墨殇❄️",
+          "rank" : 98,
+          "tag" : "#UR20PGPPP",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 2
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000036,
+          "level" : 14,
+          "name" : "Battle Ram"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000017,
+          "level" : 14,
+          "name" : "Wizard"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000050,
+          "level" : 8,
+          "name" : "Royal Ghost"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000083,
+          "level" : 8,
+          "name" : "Mother Witch"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 26000020,
+          "level" : 11,
+          "name" : "Giant Skeleton"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000052,
+          "level" : 14,
+          "name" : "Zappies"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000026,
+          "level" : 11,
+          "name" : "Vines"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        }
+      ],
+      "id" : "26000017-26000020-26000036-26000050-26000052-26000083-28000015-28000026",
+      "owners" : [
+        {
+          "name" : "Faith",
+          "rank" : 57,
+          "tag" : "#CUQGPCJR0",
+          "trophies" : 10096
+        },
+        {
+          "name" : "gabbo2",
+          "rank" : 92,
+          "tag" : "#PYPL0QPYP",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 2
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 2,
+          "id" : 26000058,
+          "level" : 11,
+          "name" : "Wall Breakers"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000062,
+          "level" : 8,
+          "name" : "Magic Archer"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000049,
+          "level" : 16,
+          "name" : "Bats"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000032,
+          "level" : 8,
+          "name" : "Miner"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000031,
+          "level" : 16,
+          "name" : "Fire Spirit"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000004,
+          "level" : 14,
+          "name" : "Bomb Tower"
+        }
+      ],
+      "id" : "26000010-26000031-26000032-26000049-26000058-26000062-27000004-28000011",
+      "owners" : [
+        {
+          "name" : "병재",
+          "rank" : 75,
+          "tag" : "#CL0V2PRU",
+          "trophies" : 12561
+        },
+        {
+          "name" : "Light Saber",
+          "rank" : 82,
+          "tag" : "#UJJ2YVLQR",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 2
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000045,
+          "level" : 11,
+          "name" : "Executioner"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000017,
+          "level" : 16,
+          "name" : "Giant Snowball"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000005,
+          "level" : 11,
+          "name" : "Freeze"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000025,
+          "level" : 11,
+          "name" : "Guards"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000010,
+          "level" : 14,
+          "name" : "Furnace"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000021,
+          "level" : 14,
+          "name" : "Hog Rider"
+        }
+      ],
+      "id" : "26000021-26000025-26000045-27000010-28000005-28000015-28000017",
+      "owners" : [
+        {
+          "name" : "Karl",
+          "rank" : 96,
+          "tag" : "#LGRR80LYP",
+          "trophies" : 14000
+        },
+        {
+          "name" : "PhantomSage™",
+          "rank" : 97,
+          "tag" : "#GGQ9G2P0",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 2
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 27000000,
+          "level" : 16,
+          "name" : "Cannon"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 16,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000030,
+          "level" : 16,
+          "name" : "Ice Spirit"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 28000010,
+          "level" : 8,
+          "name" : "Graveyard"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000095,
+          "level" : 14,
+          "name" : "Goblin Demolisher"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000009,
+          "level" : 11,
+          "name" : "Poison"
+        }
+      ],
+      "id" : "26000000-26000010-26000030-26000095-27000000-28000009-28000010-28000015",
+      "owners" : [
+        {
+          "name" : "dc.gg\/crevents",
+          "rank" : 2,
+          "tag" : "#V8PGYYVPP",
+          "trophies" : 13092
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 27000002,
+          "level" : 16,
+          "name" : "Mortar"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000034,
+          "level" : 10,
+          "name" : "Bowler"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000049,
+          "level" : 16,
+          "name" : "Bats"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000032,
+          "level" : 8,
+          "name" : "Miner"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000054,
+          "level" : 10,
+          "name" : "Cannon Cart"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000083,
+          "level" : 7,
+          "name" : "Mother Witch"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        }
+      ],
+      "id" : "26000010-26000032-26000034-26000049-26000054-26000083-27000002-28000000",
+      "owners" : [
+        {
+          "name" : "きめつ I たんじろう",
+          "rank" : 4,
+          "tag" : "#2CP9JQP90",
+          "trophies" : 13402
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 26000026,
+          "level" : 8,
+          "name" : "Princess"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000069,
+          "level" : 6,
+          "name" : "Skeleton King"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000012,
+          "level" : 11,
+          "name" : "Skeleton Army"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000032,
+          "level" : 8,
+          "name" : "Miner"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000049,
+          "level" : 16,
+          "name" : "Bats"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000001,
+          "level" : 14,
+          "name" : "Goblin Hut"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000026,
+          "level" : 11,
+          "name" : "Vines"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000095,
+          "level" : 14,
+          "name" : "Goblin Demolisher"
+        }
+      ],
+      "id" : "26000012-26000026-26000032-26000049-26000069-26000095-27000001-28000026",
+      "owners" : [
+        {
+          "name" : "Lucas✨杰克",
+          "rank" : 8,
+          "tag" : "#9G28ULYR",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 7,
+          "id" : 26000055,
+          "level" : 8,
+          "name" : "Mega Knight"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000074,
+          "level" : 6,
+          "name" : "Golden Knight"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000002,
+          "level" : 15,
+          "name" : "Goblins"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000042,
+          "level" : 7,
+          "name" : "Electro Wizard"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000051,
+          "level" : 7,
+          "name" : "Ram Rider"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000025,
+          "level" : 7,
+          "name" : "Spirit Empress"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 16,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        }
+      ],
+      "id" : "26000002-26000042-26000051-26000055-26000074-28000000-28000008-28000025",
+      "owners" : [
+        {
+          "name" : "91至寒❤️和韧✨瓜呱",
+          "rank" : 10,
+          "tag" : "#VR8YGR8YL",
+          "trophies" : 10032
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000045,
+          "level" : 11,
+          "name" : "Executioner"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 26000103,
+          "level" : 6,
+          "name" : "Boss Bandit"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000022,
+          "level" : 16,
+          "name" : "Minion Horde"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000005,
+          "level" : 11,
+          "name" : "Freeze"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000046,
+          "level" : 8,
+          "name" : "Bandit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 16,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 26000043,
+          "level" : 16,
+          "name" : "Elite Barbarians"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000021,
+          "level" : 14,
+          "name" : "Hog Rider"
+        }
+      ],
+      "id" : "26000021-26000022-26000043-26000045-26000046-26000103-28000005-28000008",
+      "owners" : [
+        {
+          "name" : "RamboOo",
+          "rank" : 11,
+          "tag" : "#YUQYJV08",
+          "trophies" : 13371
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 2,
+          "id" : 28000017,
+          "level" : 16,
+          "name" : "Giant Snowball"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000034,
+          "level" : 11,
+          "name" : "Bowler"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000014,
+          "level" : 14,
+          "name" : "Musketeer"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000005,
+          "level" : 16,
+          "name" : "Minions"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000003,
+          "level" : 14,
+          "name" : "Giant"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 28000010,
+          "level" : 8,
+          "name" : "Graveyard"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 16,
+          "name" : "Arrows"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000018,
+          "level" : 14,
+          "name" : "Mini P.E.K.K.A"
+        }
+      ],
+      "id" : "26000003-26000005-26000014-26000018-26000034-28000001-28000010-28000017",
+      "owners" : [
+        {
+          "name" : "JL ♥️ #RUDY",
+          "rank" : 13,
+          "tag" : "#UYLRYLYV0",
+          "trophies" : 13029
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 27000006,
+          "level" : 15,
+          "name" : "Tesla"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000027,
+          "level" : 5,
+          "name" : "Dark Prince"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000049,
+          "level" : 16,
+          "name" : "Bats"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000025,
+          "level" : 10,
+          "name" : "Guards"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000010,
+          "level" : 13,
+          "name" : "Furnace"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 6,
+          "name" : "Barbarian Barrel"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 28000010,
+          "level" : 8,
+          "name" : "Graveyard"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000009,
+          "level" : 9,
+          "name" : "Poison"
+        }
+      ],
+      "id" : "26000025-26000027-26000049-27000006-27000010-28000009-28000010-28000015",
+      "owners" : [
+        {
+          "name" : "Star Alex",
+          "rank" : 14,
+          "tag" : "#JLY0CGU9J",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000008,
+          "level" : 16,
+          "name" : "Barbarians"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 27000009,
+          "level" : 14,
+          "name" : "Tombstone"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 16,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000024,
+          "level" : 11,
+          "name" : "Goblin Curse"
+        },
+        {
+          "elixirCost" : 7,
+          "id" : 26000029,
+          "level" : 8,
+          "name" : "Lava Hound"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000087,
+          "level" : 8,
+          "name" : "Phoenix"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000057,
+          "level" : 14,
+          "name" : "Flying Machine"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000032,
+          "level" : 8,
+          "name" : "Miner"
+        }
+      ],
+      "id" : "26000008-26000029-26000032-26000057-26000087-27000009-28000008-28000024",
+      "owners" : [
+        {
+          "name" : "Lava Ben",
+          "rank" : 15,
+          "tag" : "#PG88V9GV",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 7,
+          "id" : 26000055,
+          "level" : 8,
+          "name" : "Mega Knight"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000062,
+          "level" : 8,
+          "name" : "Magic Archer"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000006,
+          "level" : 16,
+          "name" : "Tesla"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000021,
+          "level" : 14,
+          "name" : "Hog Rider"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 15,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000007,
+          "level" : 11,
+          "name" : "Lightning"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 16,
+          "name" : "Electro Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        }
+      ],
+      "id" : "26000010-26000021-26000055-26000062-26000084-27000006-28000007-28000011",
+      "owners" : [
+        {
+          "name" : "GençAslan:)",
+          "rank" : 16,
+          "tag" : "#2YQJJG0VL",
+          "trophies" : 10471
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000036,
+          "level" : 13,
+          "name" : "Battle Ram"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000062,
+          "level" : 4,
+          "name" : "Magic Archer"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000050,
+          "level" : 8,
+          "name" : "Royal Ghost"
+        },
+        {
+          "elixirCost" : 7,
+          "id" : 26000004,
+          "level" : 8,
+          "name" : "P.E.K.K.A"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000046,
+          "level" : 5,
+          "name" : "Bandit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 13,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000042,
+          "level" : 5,
+          "name" : "Electro Wizard"
+        }
+      ],
+      "id" : "26000004-26000036-26000042-26000046-26000050-26000062-28000000-28000008",
+      "owners" : [
+        {
+          "name" : "ManuelRay",
+          "rank" : 18,
+          "tag" : "#U9PPVP0L0",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 27000010,
+          "level" : 14,
+          "name" : "Furnace"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 27000000,
+          "level" : 16,
+          "name" : "Cannon"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000021,
+          "level" : 14,
+          "name" : "Hog Rider"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000007,
+          "level" : 11,
+          "name" : "Lightning"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 16,
+          "name" : "Electro Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        }
+      ],
+      "id" : "26000010-26000021-26000084-27000000-27000010-28000007-28000011",
+      "owners" : [
+        {
+          "name" : "TuPapiBroly",
+          "rank" : 19,
+          "tag" : "#R998YLQ0L",
+          "trophies" : 12500
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000036,
+          "level" : 14,
+          "name" : "Battle Ram"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000010,
+          "level" : 13,
+          "name" : "Furnace"
+        },
+        {
+          "elixirCost" : 7,
+          "id" : 26000004,
+          "level" : 7,
+          "name" : "P.E.K.K.A"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000083,
+          "level" : 7,
+          "name" : "Mother Witch"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 16,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000061,
+          "level" : 4,
+          "name" : "Fisherman"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000046,
+          "level" : 6,
+          "name" : "Bandit"
+        }
+      ],
+      "id" : "26000004-26000036-26000046-26000061-26000083-27000010-28000008",
+      "owners" : [
+        {
+          "name" : "FoNiX.",
+          "rank" : 20,
+          "tag" : "#208YRUG9Y8",
+          "trophies" : 13620
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000037,
+          "level" : 8,
+          "name" : "Inferno Dragon"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000006,
+          "level" : 11,
+          "name" : "Balloon"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000008,
+          "level" : 16,
+          "name" : "Barbarians"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 16,
+          "name" : "Arrows"
+        },
+        {
+          "elixirCost" : 7,
+          "id" : 26000029,
+          "level" : 8,
+          "name" : "Lava Hound"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000023,
+          "level" : 11,
+          "name" : "Void"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000013,
+          "level" : 16,
+          "name" : "Bomber"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000017,
+          "level" : 16,
+          "name" : "Giant Snowball"
+        }
+      ],
+      "id" : "26000006-26000008-26000013-26000029-26000037-28000001-28000017-28000023",
+      "owners" : [
+        {
+          "name" : "Enthusiast✨️安之",
+          "rank" : 21,
+          "tag" : "#J00VYRCR2",
+          "trophies" : 12123
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000045,
+          "level" : 11,
+          "name" : "Executioner"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000037,
+          "level" : 8,
+          "name" : "Inferno Dragon"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 28000010,
+          "level" : 5,
+          "name" : "Graveyard"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000034,
+          "level" : 11,
+          "name" : "Bowler"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000052,
+          "level" : 14,
+          "name" : "Zappies"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000012,
+          "level" : 11,
+          "name" : "Tornado"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000005,
+          "level" : 11,
+          "name" : "Freeze"
+        }
+      ],
+      "id" : "26000034-26000037-26000045-26000052-28000005-28000010-28000012",
+      "owners" : [
+        {
+          "name" : "TR⚡️Matthew⚡️",
+          "rank" : 22,
+          "tag" : "#YP8RUU2UL",
+          "trophies" : 11500
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 27000012,
+          "level" : 14,
+          "name" : "Goblin Cage"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000035,
+          "level" : 8,
+          "name" : "Lumberjack"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000087,
+          "level" : 8,
+          "name" : "Phoenix"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 28000016,
+          "level" : 13,
+          "name" : "Heal Spirit"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 26000024,
+          "level" : 16,
+          "name" : "Royal Giant"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 16,
+          "name" : "Electro Spirit"
+        }
+      ],
+      "id" : "26000024-26000035-26000084-26000087-27000012-28000000-28000015-28000016",
+      "owners" : [
+        {
+          "name" : "Sight✨Kun",
+          "rank" : 23,
+          "tag" : "#2PPRU8QU0",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 27000010,
+          "level" : 14,
+          "name" : "Furnace"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000034,
+          "level" : 10,
+          "name" : "Bowler"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 16,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 28000010,
+          "level" : 8,
+          "name" : "Graveyard"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000009,
+          "level" : 11,
+          "name" : "Poison"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000030,
+          "level" : 16,
+          "name" : "Ice Spirit"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000006,
+          "level" : 16,
+          "name" : "Tesla"
+        }
+      ],
+      "id" : "26000000-26000010-26000030-26000034-27000006-27000010-28000009-28000010",
+      "owners" : [
+        {
+          "name" : "King Pedro⚡️",
+          "rank" : 24,
+          "tag" : "#20PYURRVG2",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000063,
+          "level" : 11,
+          "name" : "Electro Dragon"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000026,
+          "level" : 7,
+          "name" : "Princess"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000068,
+          "level" : 14,
+          "name" : "Battle Healer"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000012,
+          "level" : 11,
+          "name" : "Tornado"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000067,
+          "level" : 14,
+          "name" : "Elixir Golem"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 27000007,
+          "level" : 14,
+          "name" : "Elixir Collector"
+        },
+        {
+          "id" : 28000006,
+          "level" : 11,
+          "name" : "Mirror"
+        }
+      ],
+      "id" : "26000010-26000026-26000063-26000067-26000068-27000007-28000006-28000012",
+      "owners" : [
+        {
+          "name" : "007goldens",
+          "rank" : 25,
+          "tag" : "#P82R2QJY8",
+          "trophies" : 11901
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000063,
+          "level" : 8,
+          "name" : "Electro Dragon"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000008,
+          "level" : 15,
+          "name" : "Barbarians"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000003,
+          "level" : 13,
+          "name" : "Giant"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000068,
+          "level" : 11,
+          "name" : "Battle Healer"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000013,
+          "level" : 16,
+          "name" : "Bomber"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000012,
+          "level" : 10,
+          "name" : "Tornado"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 27000007,
+          "level" : 12,
+          "name" : "Elixir Collector"
+        }
+      ],
+      "id" : "26000003-26000008-26000013-26000063-26000068-27000007-28000012",
+      "owners" : [
+        {
+          "name" : "IvánGG",
+          "rank" : 27,
+          "tag" : "#UJY9VC0QR",
+          "trophies" : 10604
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000059,
+          "level" : 14,
+          "name" : "Royal Hogs"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000027,
+          "level" : 11,
+          "name" : "Dark Prince"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000062,
+          "level" : 8,
+          "name" : "Magic Archer"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000102,
+          "level" : 16,
+          "name" : "Berserker"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000007,
+          "level" : 11,
+          "name" : "Lightning"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000001,
+          "level" : 13,
+          "name" : "Goblin Hut"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 16,
+          "name" : "Electro Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        }
+      ],
+      "id" : "26000027-26000059-26000062-26000084-26000102-27000001-28000007-28000015",
+      "owners" : [
+        {
+          "name" : "Eragon✨安之",
+          "rank" : 29,
+          "tag" : "#9LGYYV9G",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 27000006,
+          "level" : 15,
+          "name" : "Tesla"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000027,
+          "level" : 6,
+          "name" : "Dark Prince"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000030,
+          "level" : 16,
+          "name" : "Ice Spirit"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000018,
+          "level" : 16,
+          "name" : "Royal Delivery"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000003,
+          "level" : 14,
+          "name" : "Rocket"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000032,
+          "level" : 8,
+          "name" : "Miner"
+        }
+      ],
+      "id" : "26000010-26000027-26000030-26000032-27000006-28000003-28000011-28000018",
+      "owners" : [
+        {
+          "name" : "TEF丨にゃんにゃんまる",
+          "rank" : 31,
+          "tag" : "#200GJLL208",
+          "trophies" : 11518
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000001,
+          "level" : 16,
+          "name" : "Archers"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000005,
+          "level" : 16,
+          "name" : "Minions"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000002,
+          "level" : 15,
+          "name" : "Goblins"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 16,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000003,
+          "level" : 14,
+          "name" : "Giant"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000014,
+          "level" : 13,
+          "name" : "Musketeer"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000018,
+          "level" : 14,
+          "name" : "Mini P.E.K.K.A"
+        }
+      ],
+      "id" : "26000000-26000001-26000002-26000003-26000005-26000014-26000018-28000000",
+      "owners" : [
+        {
+          "name" : "Barti",
+          "rank" : 32,
+          "tag" : "#8LR0P09LR",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000036,
+          "level" : 14,
+          "name" : "Battle Ram"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000062,
+          "level" : 8,
+          "name" : "Magic Archer"
+        },
+        {
+          "elixirCost" : 7,
+          "id" : 26000004,
+          "level" : 11,
+          "name" : "P.E.K.K.A"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000027,
+          "level" : 9,
+          "name" : "Dark Prince"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000050,
+          "level" : 8,
+          "name" : "Royal Ghost"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 16,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000042,
+          "level" : 8,
+          "name" : "Electro Wizard"
+        }
+      ],
+      "id" : "26000004-26000027-26000036-26000042-26000050-26000062-28000000-28000008",
+      "owners" : [
+        {
+          "name" : "世界之大",
+          "rank" : 34,
+          "tag" : "#UJVG0C28P",
+          "trophies" : 10000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 2,
+          "id" : 28000017,
+          "level" : 16,
+          "name" : "Giant Snowball"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000102,
+          "level" : 16,
+          "name" : "Berserker"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 27000008,
+          "level" : 11,
+          "name" : "X-Bow"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 16,
+          "name" : "Electro Spirit"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000031,
+          "level" : 16,
+          "name" : "Fire Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000005,
+          "level" : 16,
+          "name" : "Minions"
+        }
+      ],
+      "id" : "26000005-26000010-26000031-26000084-26000102-27000008-28000011-28000017",
+      "owners" : [
+        {
+          "name" : "TEF 卢卡斯✨Kun✨陈瀚",
+          "rank" : 35,
+          "tag" : "#2QUJJCLUU",
+          "trophies" : 13011
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 2,
+          "id" : 26000058,
+          "level" : 11,
+          "name" : "Wall Breakers"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000062,
+          "level" : 8,
+          "name" : "Magic Archer"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000049,
+          "level" : 16,
+          "name" : "Bats"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000032,
+          "level" : 7,
+          "name" : "Miner"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000031,
+          "level" : 16,
+          "name" : "Fire Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000102,
+          "level" : 16,
+          "name" : "Berserker"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000018,
+          "level" : 15,
+          "name" : "Royal Delivery"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000004,
+          "level" : 14,
+          "name" : "Bomb Tower"
+        }
+      ],
+      "id" : "26000031-26000032-26000049-26000058-26000062-26000102-27000004-28000018",
+      "owners" : [
+        {
+          "name" : "Nicoco23",
+          "rank" : 36,
+          "tag" : "#G0CYJ00J",
+          "trophies" : 11241
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 16,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000003,
+          "level" : 14,
+          "name" : "Giant"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000039,
+          "level" : 14,
+          "name" : "Mega Minion"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000016,
+          "level" : 11,
+          "name" : "Prince"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000027,
+          "level" : 11,
+          "name" : "Dark Prince"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000013,
+          "level" : 16,
+          "name" : "Bomber"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000002,
+          "level" : 11,
+          "name" : "Rage"
+        }
+      ],
+      "id" : "26000003-26000013-26000016-26000027-26000039-28000000-28000002-28000008",
+      "owners" : [
+        {
+          "name" : "STARR NOVA",
+          "rank" : 38,
+          "tag" : "#LYYRJ82U0",
+          "trophies" : 12000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 27000010,
+          "level" : 14,
+          "name" : "Furnace"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000006,
+          "level" : 16,
+          "name" : "Tesla"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 28000010,
+          "level" : 8,
+          "name" : "Graveyard"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 16,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000030,
+          "level" : 16,
+          "name" : "Ice Spirit"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000009,
+          "level" : 10,
+          "name" : "Poison"
+        }
+      ],
+      "id" : "26000000-26000010-26000030-27000006-27000010-28000009-28000010-28000015",
+      "owners" : [
+        {
+          "name" : "RemiEli",
+          "rank" : 39,
+          "tag" : "#2JRLG8PUQ",
+          "trophies" : 10032
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 27000000,
+          "level" : 16,
+          "name" : "Cannon"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 16,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000017,
+          "level" : 16,
+          "name" : "Giant Snowball"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000095,
+          "level" : 14,
+          "name" : "Goblin Demolisher"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000009,
+          "level" : 11,
+          "name" : "Poison"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000031,
+          "level" : 16,
+          "name" : "Fire Spirit"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000013,
+          "level" : 11,
+          "name" : "Goblin Drill"
+        }
+      ],
+      "id" : "26000000-26000010-26000031-26000095-27000000-27000013-28000009-28000017",
+      "owners" : [
+        {
+          "name" : "GRX N̸øN̸A̸M̸E̸",
+          "rank" : 40,
+          "tag" : "#Q82Q29YUC",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 16,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000006,
+          "level" : 11,
+          "name" : "Balloon"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000011,
+          "level" : 14,
+          "name" : "Valkyrie"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000025,
+          "level" : 7,
+          "name" : "Spirit Empress"
+        },
+        {
+          "elixirCost" : 7,
+          "id" : 26000029,
+          "level" : 8,
+          "name" : "Lava Hound"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000005,
+          "level" : 16,
+          "name" : "Minions"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 27000009,
+          "level" : 14,
+          "name" : "Tombstone"
+        }
+      ],
+      "id" : "26000005-26000006-26000011-26000029-27000009-28000000-28000008-28000025",
+      "owners" : [
+        {
+          "name" : "子涵❄️坤✨",
+          "rank" : 41,
+          "tag" : "#VLU820JUU",
+          "trophies" : 10066
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 7,
+          "id" : 26000055,
+          "level" : 8,
+          "name" : "Mega Knight"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000035,
+          "level" : 8,
+          "name" : "Lumberjack"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000021,
+          "level" : 14,
+          "name" : "Hog Rider"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000083,
+          "level" : 8,
+          "name" : "Mother Witch"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000014,
+          "level" : 13,
+          "name" : "Earthquake"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000080,
+          "level" : 16,
+          "name" : "Skeleton Dragons"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 16,
+          "name" : "Arrows"
+        }
+      ],
+      "id" : "26000021-26000035-26000055-26000080-26000083-28000001-28000014",
+      "owners" : [
+        {
+          "name" : "EG Soudy✨Kun",
+          "rank" : 42,
+          "tag" : "#290UQY8C",
+          "trophies" : 10060
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000059,
+          "level" : 14,
+          "name" : "Royal Hogs"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000001,
+          "level" : 16,
+          "name" : "Archers"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000102,
+          "level" : 16,
+          "name" : "Berserker"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000007,
+          "level" : 11,
+          "name" : "Lightning"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000001,
+          "level" : 14,
+          "name" : "Goblin Hut"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000030,
+          "level" : 16,
+          "name" : "Ice Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        }
+      ],
+      "id" : "26000001-26000030-26000059-26000102-27000001-28000007-28000011",
+      "owners" : [
+        {
+          "name" : "RUBIZALEZ",
+          "rank" : 44,
+          "tag" : "#LPRR9P",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000059,
+          "level" : 14,
+          "name" : "Royal Hogs"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 27000000,
+          "level" : 16,
+          "name" : "Cannon"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000014,
+          "level" : 14,
+          "name" : "Earthquake"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000030,
+          "level" : 16,
+          "name" : "Ice Spirit"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000018,
+          "level" : 16,
+          "name" : "Royal Delivery"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        }
+      ],
+      "id" : "26000010-26000030-26000059-27000000-28000011-28000014-28000018",
+      "owners" : [
+        {
+          "name" : "Benjamin",
+          "rank" : 46,
+          "tag" : "#U0G20Y99",
+          "trophies" : 10089
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 2,
+          "id" : 26000049,
+          "level" : 16,
+          "name" : "Bats"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000016,
+          "level" : 11,
+          "name" : "Prince"
+        },
+        {
+          "elixirCost" : 7,
+          "id" : 26000055,
+          "level" : 8,
+          "name" : "Mega Knight"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000041,
+          "level" : 16,
+          "name" : "Goblin Gang"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000032,
+          "level" : 8,
+          "name" : "Miner"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 16,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000058,
+          "level" : 11,
+          "name" : "Wall Breakers"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000064,
+          "level" : 16,
+          "name" : "Firecracker"
+        }
+      ],
+      "id" : "26000016-26000032-26000041-26000049-26000055-26000058-26000064-28000008",
+      "owners" : [
+        {
+          "name" : "Nimaroyale✨",
+          "rank" : 47,
+          "tag" : "#UC89Y9QUL",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000035,
+          "level" : 8,
+          "name" : "Lumberjack"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000039,
+          "level" : 14,
+          "name" : "Mega Minion"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000018,
+          "level" : 14,
+          "name" : "Mini P.E.K.K.A"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000013,
+          "level" : 16,
+          "name" : "Bomber"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 16,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000002,
+          "level" : 11,
+          "name" : "Rage"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000003,
+          "level" : 14,
+          "name" : "Giant"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        }
+      ],
+      "id" : "26000003-26000013-26000018-26000035-26000039-28000000-28000002-28000008",
+      "owners" : [
+        {
+          "name" : "Diego❤️Zaïyr",
+          "rank" : 48,
+          "tag" : "#UGJ0PCUPV",
+          "trophies" : 13619
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 26000026,
+          "level" : 4,
+          "name" : "Princess"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000002,
+          "level" : 15,
+          "name" : "Goblins"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000004,
+          "level" : 10,
+          "name" : "Goblin Barrel"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000040,
+          "level" : 10,
+          "name" : "Dart Goblin"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000102,
+          "level" : 13,
+          "name" : "Berserker"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000030,
+          "level" : 14,
+          "name" : "Ice Spirit"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000031,
+          "level" : 14,
+          "name" : "Fire Spirit"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 27000000,
+          "level" : 14,
+          "name" : "Cannon"
+        }
+      ],
+      "id" : "26000002-26000026-26000030-26000031-26000040-26000102-27000000-28000004",
+      "owners" : [
+        {
+          "name" : "LUIZ CLASH™",
+          "rank" : 49,
+          "tag" : "#U2QCGCGJV",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 26000001,
+          "level" : 15,
+          "name" : "Archers"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000059,
+          "level" : 13,
+          "name" : "Royal Hogs"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 15,
+          "name" : "Electro Spirit"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000080,
+          "level" : 15,
+          "name" : "Skeleton Dragons"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000001,
+          "level" : 13,
+          "name" : "Goblin Hut"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 10,
+          "name" : "Barbarian Barrel"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 13,
+          "name" : "Fireball"
+        }
+      ],
+      "id" : "26000001-26000059-26000080-26000084-27000001-28000000-28000015",
+      "owners" : [
+        {
+          "name" : "Ryley",
+          "rank" : 51,
+          "tag" : "#C0V0UQ9UY",
+          "trophies" : 12513
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 27000006,
+          "level" : 16,
+          "name" : "Tesla"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000027,
+          "level" : 11,
+          "name" : "Dark Prince"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000059,
+          "level" : 14,
+          "name" : "Royal Hogs"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000080,
+          "level" : 16,
+          "name" : "Skeleton Dragons"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000007,
+          "level" : 11,
+          "name" : "Lightning"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000018,
+          "level" : 16,
+          "name" : "Royal Delivery"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 16,
+          "name" : "Electro Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000002,
+          "level" : 16,
+          "name" : "Goblins"
+        }
+      ],
+      "id" : "26000002-26000027-26000059-26000080-26000084-27000006-28000007-28000018",
+      "owners" : [
+        {
+          "name" : "Mohamed Light",
+          "rank" : 53,
+          "tag" : "#G9YV9GR8R",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000017,
+          "level" : 14,
+          "name" : "Wizard"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000050,
+          "level" : 7,
+          "name" : "Royal Ghost"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000001,
+          "level" : 13,
+          "name" : "Goblin Hut"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000059,
+          "level" : 13,
+          "name" : "Royal Hogs"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 15,
+          "name" : "Electro Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000002,
+          "level" : 15,
+          "name" : "Goblins"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000007,
+          "level" : 10,
+          "name" : "Lightning"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        }
+      ],
+      "id" : "26000002-26000017-26000050-26000059-26000084-27000001-28000007-28000015",
+      "owners" : [
+        {
+          "name" : "noobchito1 ☠️",
+          "rank" : 55,
+          "tag" : "#YRQUG0QGQ",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 26000040,
+          "level" : 14,
+          "name" : "Dart Goblin"
+        },
+        {
+          "elixirCost" : 7,
+          "id" : 26000055,
+          "level" : 8,
+          "name" : "Mega Knight"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000012,
+          "level" : 11,
+          "name" : "Skeleton Army"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000026,
+          "level" : 8,
+          "name" : "Princess"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000004,
+          "level" : 11,
+          "name" : "Goblin Barrel"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 26000024,
+          "level" : 16,
+          "name" : "Royal Giant"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000016,
+          "level" : 11,
+          "name" : "Prince"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000049,
+          "level" : 16,
+          "name" : "Bats"
+        }
+      ],
+      "id" : "26000012-26000016-26000024-26000026-26000040-26000049-26000055-28000004",
+      "owners" : [
+        {
+          "name" : "哈利波特",
+          "rank" : 56,
+          "tag" : "#UGYGQYUC8",
+          "trophies" : 10354
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000035,
+          "level" : 4,
+          "name" : "Lumberjack"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 14,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000003,
+          "level" : 12,
+          "name" : "Giant"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000016,
+          "level" : 9,
+          "name" : "Prince"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000007,
+          "level" : 10,
+          "name" : "Lightning"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000039,
+          "level" : 9,
+          "name" : "Mega Minion"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000013,
+          "level" : 14,
+          "name" : "Bomber"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000002,
+          "level" : 7,
+          "name" : "Rage"
+        }
+      ],
+      "id" : "26000003-26000013-26000016-26000035-26000039-28000002-28000007-28000008",
+      "owners" : [
+        {
+          "name" : "Viiper",
+          "rank" : 58,
+          "tag" : "#Y90P8VUQY",
+          "trophies" : 12092
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 26000064,
+          "level" : 16,
+          "name" : "Firecracker"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000022,
+          "level" : 16,
+          "name" : "Minion Horde"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000025,
+          "level" : 11,
+          "name" : "Guards"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000008,
+          "level" : 16,
+          "name" : "Barbarians"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000021,
+          "level" : 14,
+          "name" : "Hog Rider"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000007,
+          "level" : 11,
+          "name" : "Lightning"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 26000020,
+          "level" : 11,
+          "name" : "Giant Skeleton"
+        }
+      ],
+      "id" : "26000008-26000020-26000021-26000022-26000025-26000064-28000007-28000011",
+      "owners" : [
+        {
+          "name" : "CODE KANGDONE(:",
+          "rank" : 59,
+          "tag" : "#200QLJUYL",
+          "trophies" : 10045
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000048,
+          "level" : 7,
+          "name" : "Night Witch"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000034,
+          "level" : 11,
+          "name" : "Bowler"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000017,
+          "level" : 16,
+          "name" : "Giant Snowball"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000014,
+          "level" : 14,
+          "name" : "Musketeer"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 28000010,
+          "level" : 8,
+          "name" : "Graveyard"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000003,
+          "level" : 14,
+          "name" : "Giant"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000025,
+          "level" : 11,
+          "name" : "Guards"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 16,
+          "name" : "Arrows"
+        }
+      ],
+      "id" : "26000003-26000014-26000025-26000034-26000048-28000001-28000010-28000017",
+      "owners" : [
+        {
+          "name" : "Discord.gg\/ulti",
+          "rank" : 60,
+          "tag" : "#CUC92Y00U",
+          "trophies" : 13548
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 27000002,
+          "level" : 15,
+          "name" : "Mortar"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000002,
+          "level" : 16,
+          "name" : "Goblins"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000056,
+          "level" : 15,
+          "name" : "Skeleton Barrel"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000053,
+          "level" : 15,
+          "name" : "Rascals"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000054,
+          "level" : 11,
+          "name" : "Cannon Cart"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000005,
+          "level" : 16,
+          "name" : "Minions"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        }
+      ],
+      "id" : "26000002-26000005-26000053-26000054-26000056-27000002-28000000-28000015",
+      "owners" : [
+        {
+          "name" : "HC │ Sirenoman⚡",
+          "rank" : 63,
+          "tag" : "#PYQ8PY90J",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 2,
+          "id" : 26000058,
+          "level" : 11,
+          "name" : "Wall Breakers"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000072,
+          "level" : 6,
+          "name" : "Archer Queen"
+        },
+        {
+          "elixirCost" : 7,
+          "id" : 26000055,
+          "level" : 8,
+          "name" : "Mega Knight"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 16,
+          "name" : "Arrows"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000016,
+          "level" : 11,
+          "name" : "Prince"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000046,
+          "level" : 8,
+          "name" : "Bandit"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000005,
+          "level" : 16,
+          "name" : "Minions"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 16,
+          "name" : "Zap"
+        }
+      ],
+      "id" : "26000005-26000016-26000046-26000055-26000058-26000072-28000001-28000008",
+      "owners" : [
+        {
+          "name" : "VVV TK✨",
+          "rank" : 64,
+          "tag" : "#CLLGV2JQ0",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 27000000,
+          "level" : 16,
+          "name" : "Cannon"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000038,
+          "level" : 14,
+          "name" : "Ice Golem"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000014,
+          "level" : 14,
+          "name" : "Musketeer"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000021,
+          "level" : 14,
+          "name" : "Hog Rider"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000003,
+          "level" : 14,
+          "name" : "Rocket"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 16,
+          "name" : "Electro Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        }
+      ],
+      "id" : "26000010-26000014-26000021-26000038-26000084-27000000-28000003-28000011",
+      "owners" : [
+        {
+          "name" : "Casluve",
+          "rank" : 66,
+          "tag" : "#G89PRP2VQ",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 6,
+          "id" : 26000024,
+          "level" : 16,
+          "name" : "Royal Giant"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 27000009,
+          "level" : 13,
+          "name" : "Tombstone"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000083,
+          "level" : 8,
+          "name" : "Mother Witch"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000052,
+          "level" : 13,
+          "name" : "Zappies"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000061,
+          "level" : 8,
+          "name" : "Fisherman"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        }
+      ],
+      "id" : "26000024-26000052-26000061-26000083-27000009-28000000-28000015",
+      "owners" : [
+        {
+          "name" : "Eduardo✌️",
+          "rank" : 67,
+          "tag" : "#LV080L8C",
+          "trophies" : 12032
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000059,
+          "level" : 14,
+          "name" : "Royal Hogs"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000034,
+          "level" : 11,
+          "name" : "Bowler"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000001,
+          "level" : 16,
+          "name" : "Archers"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 26000020,
+          "level" : 11,
+          "name" : "Giant Skeleton"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000061,
+          "level" : 7,
+          "name" : "Fisherman"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000052,
+          "level" : 14,
+          "name" : "Zappies"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 16,
+          "name" : "Arrows"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 15,
+          "name" : "Electro Spirit"
+        }
+      ],
+      "id" : "26000001-26000020-26000034-26000052-26000059-26000061-26000084-28000001",
+      "owners" : [
+        {
+          "name" : "diadri9",
+          "rank" : 68,
+          "tag" : "#R892YCVQL",
+          "trophies" : 12032
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000035,
+          "level" : 8,
+          "name" : "Lumberjack"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000034,
+          "level" : 11,
+          "name" : "Bowler"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000087,
+          "level" : 8,
+          "name" : "Phoenix"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 27000000,
+          "level" : 16,
+          "name" : "Cannon"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000007,
+          "level" : 11,
+          "name" : "Lightning"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000012,
+          "level" : 11,
+          "name" : "Tornado"
+        },
+        {
+          "elixirCost" : 7,
+          "id" : 26000085,
+          "level" : 11,
+          "name" : "Electro Giant"
+        }
+      ],
+      "id" : "26000034-26000035-26000085-26000087-27000000-28000007-28000012-28000015",
+      "owners" : [
+        {
+          "name" : "AmiR",
+          "rank" : 69,
+          "tag" : "#2LG8QP000",
+          "trophies" : 10699
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000063,
+          "level" : 11,
+          "name" : "Electro Dragon"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000018,
+          "level" : 14,
+          "name" : "Mini P.E.K.K.A"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000011,
+          "level" : 13,
+          "name" : "Valkyrie"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000067,
+          "level" : 13,
+          "name" : "Elixir Golem"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000068,
+          "level" : 13,
+          "name" : "Battle Healer"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 28000016,
+          "level" : 13,
+          "name" : "Heal Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000002,
+          "level" : 10,
+          "name" : "Rage"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 27000007,
+          "level" : 14,
+          "name" : "Elixir Collector"
+        }
+      ],
+      "id" : "26000011-26000018-26000063-26000067-26000068-27000007-28000002-28000016",
+      "owners" : [
+        {
+          "name" : "MATRIX",
+          "rank" : 72,
+          "tag" : "#L8GRYJPV8",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000063,
+          "level" : 11,
+          "name" : "Electro Dragon"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000035,
+          "level" : 8,
+          "name" : "Lumberjack"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000080,
+          "level" : 16,
+          "name" : "Skeleton Dragons"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000068,
+          "level" : 14,
+          "name" : "Battle Healer"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 27000007,
+          "level" : 14,
+          "name" : "Elixir Collector"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000012,
+          "level" : 11,
+          "name" : "Tornado"
+        },
+        {
+          "elixirCost" : 8,
+          "id" : 26000009,
+          "level" : 11,
+          "name" : "Golem"
+        }
+      ],
+      "id" : "26000009-26000035-26000063-26000068-26000080-27000007-28000012-28000015",
+      "owners" : [
+        {
+          "name" : "YD",
+          "rank" : 73,
+          "tag" : "#LYLLYCGC8",
+          "trophies" : 10032
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000021,
+          "level" : 14,
+          "name" : "Hog Rider"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000005,
+          "level" : 11,
+          "name" : "Freeze"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000005,
+          "level" : 16,
+          "name" : "Minions"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000018,
+          "level" : 14,
+          "name" : "Mini P.E.K.K.A"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 15,
+          "name" : "Electro Spirit"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000026,
+          "level" : 8,
+          "name" : "Princess"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000038,
+          "level" : 14,
+          "name" : "Ice Golem"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        }
+      ],
+      "id" : "26000005-26000018-26000021-26000026-26000038-26000084-28000005-28000011",
+      "owners" : [
+        {
+          "name" : "Tafa",
+          "rank" : 74,
+          "tag" : "#9C2G0YPU9",
+          "trophies" : 12621
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000037,
+          "level" : 8,
+          "name" : "Inferno Dragon"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000074,
+          "level" : 6,
+          "name" : "Golden Knight"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000012,
+          "level" : 14,
+          "name" : "Goblin Cage"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000034,
+          "level" : 11,
+          "name" : "Bowler"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000052,
+          "level" : 14,
+          "name" : "Zappies"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 16,
+          "name" : "Arrows"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000005,
+          "level" : 11,
+          "name" : "Freeze"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 28000010,
+          "level" : 8,
+          "name" : "Graveyard"
+        }
+      ],
+      "id" : "26000034-26000037-26000052-26000074-27000012-28000001-28000005-28000010",
+      "owners" : [
+        {
+          "name" : "Valentin❤️✨VJR7",
+          "rank" : 76,
+          "tag" : "#8U9L99QQU",
+          "trophies" : 10499
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000018,
+          "level" : 12,
+          "name" : "Mini P.E.K.K.A"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000014,
+          "level" : 13,
+          "name" : "Musketeer"
+        },
+        {
+          "elixirCost" : 7,
+          "id" : 26000055,
+          "level" : 8,
+          "name" : "Mega Knight"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000012,
+          "level" : 11,
+          "name" : "Tornado"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 27000003,
+          "level" : 12,
+          "name" : "Inferno Tower"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 26000033,
+          "level" : 4,
+          "name" : "Sparky"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000005,
+          "level" : 7,
+          "name" : "Freeze"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000064,
+          "level" : 14,
+          "name" : "Firecracker"
+        }
+      ],
+      "id" : "26000014-26000018-26000033-26000055-26000064-27000003-28000005-28000012",
+      "owners" : [
+        {
+          "name" : "ŦHЦG★ŁIFÊ™",
+          "rank" : 77,
+          "tag" : "#9VQGQ29LL",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000008,
+          "level" : 16,
+          "name" : "Barbarians"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 16,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000007,
+          "level" : 11,
+          "name" : "Witch"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000042,
+          "level" : 8,
+          "name" : "Electro Wizard"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000021,
+          "level" : 14,
+          "name" : "Hog Rider"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000000,
+          "level" : 14,
+          "name" : "Fireball"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 26000033,
+          "level" : 8,
+          "name" : "Sparky"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000012,
+          "level" : 11,
+          "name" : "Skeleton Army"
+        }
+      ],
+      "id" : "26000007-26000008-26000012-26000021-26000033-26000042-28000000-28000008",
+      "owners" : [
+        {
+          "name" : "Depilate♥Witch",
+          "rank" : 79,
+          "tag" : "#2298CRLPR",
+          "trophies" : 12000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 26000012,
+          "level" : 11,
+          "name" : "Skeleton Army"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000069,
+          "level" : 5,
+          "name" : "Skeleton King"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000037,
+          "level" : 8,
+          "name" : "Inferno Dragon"
+        },
+        {
+          "elixirCost" : 8,
+          "id" : 26000009,
+          "level" : 10,
+          "name" : "Golem"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000048,
+          "level" : 7,
+          "name" : "Night Witch"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000067,
+          "level" : 13,
+          "name" : "Elixir Golem"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000002,
+          "level" : 10,
+          "name" : "Rage"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 15,
+          "name" : "Arrows"
+        }
+      ],
+      "id" : "26000009-26000012-26000037-26000048-26000067-26000069-28000001-28000002",
+      "owners" : [
+        {
+          "name" : "Ijihu",
+          "rank" : 81,
+          "tag" : "#20PRCUJ0LR",
+          "trophies" : 10134
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 28000004,
+          "level" : 10,
+          "name" : "Goblin Barrel"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000062,
+          "level" : 7,
+          "name" : "Magic Archer"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000058,
+          "level" : 11,
+          "name" : "Wall Breakers"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000011,
+          "level" : 13,
+          "name" : "Valkyrie"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000030,
+          "level" : 16,
+          "name" : "Ice Spirit"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000018,
+          "level" : 16,
+          "name" : "Royal Delivery"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 27000003,
+          "level" : 13,
+          "name" : "Inferno Tower"
+        }
+      ],
+      "id" : "26000010-26000011-26000030-26000058-26000062-27000003-28000004-28000018",
+      "owners" : [
+        {
+          "name" : "Turan✨",
+          "rank" : 83,
+          "tag" : "#P8P0Q8CJ",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000014,
+          "level" : 14,
+          "name" : "Musketeer"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000006,
+          "level" : 11,
+          "name" : "Balloon"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000049,
+          "level" : 16,
+          "name" : "Bats"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000038,
+          "level" : 14,
+          "name" : "Ice Golem"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000017,
+          "level" : 16,
+          "name" : "Giant Snowball"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000004,
+          "level" : 14,
+          "name" : "Bomb Tower"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000032,
+          "level" : 8,
+          "name" : "Miner"
+        }
+      ],
+      "id" : "26000006-26000014-26000032-26000038-26000049-27000004-28000015-28000017",
+      "owners" : [
+        {
+          "name" : "winner",
+          "rank" : 84,
+          "tag" : "#JYC8R9JCC",
+          "trophies" : 11915
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 2,
+          "id" : 28000008,
+          "level" : 16,
+          "name" : "Zap"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000039,
+          "level" : 14,
+          "name" : "Mega Minion"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000051,
+          "level" : 8,
+          "name" : "Ram Rider"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 16,
+          "name" : "Arrows"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 16,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        },
+        {
+          "elixirCost" : 7,
+          "id" : 26000004,
+          "level" : 11,
+          "name" : "P.E.K.K.A"
+        }
+      ],
+      "id" : "26000000-26000004-26000039-26000051-28000001-28000008-28000015",
+      "owners" : [
+        {
+          "name" : "LonDex Play",
+          "rank" : 86,
+          "tag" : "#JYG0G0Y9P",
+          "trophies" : 11001
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 26000001,
+          "level" : 16,
+          "name" : "Archers"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 16,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000006,
+          "level" : 15,
+          "name" : "Tesla"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000010,
+          "level" : 16,
+          "name" : "Skeletons"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 8,
+          "name" : "The Log"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000084,
+          "level" : 14,
+          "name" : "Electro Spirit"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 27000008,
+          "level" : 9,
+          "name" : "X-Bow"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000003,
+          "level" : 13,
+          "name" : "Rocket"
+        }
+      ],
+      "id" : "26000000-26000001-26000010-26000084-27000006-27000008-28000003-28000011",
+      "owners" : [
+        {
+          "name" : "ツ✨26✨おやすみ",
+          "rank" : 89,
+          "tag" : "#VL9JJGRQQ",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000036,
+          "level" : 14,
+          "name" : "Battle Ram"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000035,
+          "level" : 8,
+          "name" : "Lumberjack"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000050,
+          "level" : 8,
+          "name" : "Royal Ghost"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000046,
+          "level" : 8,
+          "name" : "Bandit"
+        },
+        {
+          "elixirCost" : 9,
+          "id" : 26000028,
+          "level" : 14,
+          "name" : "Three Musketeers"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 28000016,
+          "level" : 14,
+          "name" : "Heal Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000002,
+          "level" : 11,
+          "name" : "Rage"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 27000007,
+          "level" : 14,
+          "name" : "Elixir Collector"
+        }
+      ],
+      "id" : "26000028-26000035-26000036-26000046-26000050-27000007-28000002-28000016",
+      "owners" : [
+        {
+          "name" : "Idefix",
+          "rank" : 90,
+          "tag" : "#GGGJLLJR",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000063,
+          "level" : 10,
+          "name" : "Electro Dragon"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000018,
+          "level" : 14,
+          "name" : "Mini P.E.K.K.A"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000037,
+          "level" : 8,
+          "name" : "Inferno Dragon"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000067,
+          "level" : 14,
+          "name" : "Elixir Golem"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000068,
+          "level" : 13,
+          "name" : "Battle Healer"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000002,
+          "level" : 11,
+          "name" : "Rage"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000012,
+          "level" : 10,
+          "name" : "Tornado"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000001,
+          "level" : 16,
+          "name" : "Arrows"
+        }
+      ],
+      "id" : "26000018-26000037-26000063-26000067-26000068-28000001-28000002-28000012",
+      "owners" : [
+        {
+          "name" : "Joukkuoluk",
+          "rank" : 91,
+          "tag" : "#RR9RLJGYL",
+          "trophies" : 13128
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 3,
+          "id" : 26000026,
+          "level" : 4,
+          "name" : "Princess"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 14,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000022,
+          "level" : 16,
+          "name" : "Minion Horde"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000002,
+          "level" : 4,
+          "name" : "Rage"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000061,
+          "level" : 8,
+          "name" : "Fisherman"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 27000007,
+          "level" : 12,
+          "name" : "Elixir Collector"
+        },
+        {
+          "elixirCost" : 9,
+          "id" : 26000028,
+          "level" : 7,
+          "name" : "Three Musketeers"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 28000016,
+          "level" : 7,
+          "name" : "Heal Spirit"
+        }
+      ],
+      "id" : "26000000-26000022-26000026-26000028-26000061-27000007-28000002-28000016",
+      "owners" : [
+        {
+          "name" : "☯️Ying-Yang☯️",
+          "rank" : 93,
+          "tag" : "#VCY9C22CL",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000037,
+          "level" : 8,
+          "name" : "Inferno Dragon"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000000,
+          "level" : 16,
+          "name" : "Knight"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000015,
+          "level" : 11,
+          "name" : "Baby Dragon"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000006,
+          "level" : 11,
+          "name" : "Balloon"
+        },
+        {
+          "elixirCost" : 5,
+          "id" : 26000034,
+          "level" : 11,
+          "name" : "Bowler"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000012,
+          "level" : 11,
+          "name" : "Tornado"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 28000005,
+          "level" : 11,
+          "name" : "Freeze"
+        }
+      ],
+      "id" : "26000000-26000006-26000015-26000034-26000037-28000005-28000012-28000015",
+      "owners" : [
+        {
+          "name" : "CAL VITINHO",
+          "rank" : 94,
+          "tag" : "#L8LLVUY29",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 7,
+          "id" : 26000055,
+          "level" : 8,
+          "name" : "Mega Knight"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000062,
+          "level" : 7,
+          "name" : "Magic Archer"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 27000006,
+          "level" : 15,
+          "name" : "Tesla"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000021,
+          "level" : 13,
+          "name" : "Hog Rider"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 26000102,
+          "level" : 15,
+          "name" : "Berserker"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 28000007,
+          "level" : 11,
+          "name" : "Lightning"
+        },
+        {
+          "elixirCost" : 1,
+          "id" : 26000030,
+          "level" : 15,
+          "name" : "Ice Spirit"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000011,
+          "level" : 7,
+          "name" : "The Log"
+        }
+      ],
+      "id" : "26000021-26000030-26000055-26000062-26000102-27000006-28000007-28000011",
+      "owners" : [
+        {
+          "name" : "Dominik",
+          "rank" : 95,
+          "tag" : "#J0VU9CGP",
+          "trophies" : 11549
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 5,
+          "id" : 26000063,
+          "level" : 11,
+          "name" : "Electro Dragon"
+        },
+        {
+          "elixirCost" : 2,
+          "id" : 28000015,
+          "level" : 11,
+          "name" : "Barbarian Barrel"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000035,
+          "level" : 8,
+          "name" : "Lumberjack"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000027,
+          "level" : 11,
+          "name" : "Dark Prince"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000012,
+          "level" : 11,
+          "name" : "Tornado"
+        },
+        {
+          "elixirCost" : 6,
+          "id" : 27000007,
+          "level" : 14,
+          "name" : "Elixir Collector"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000080,
+          "level" : 16,
+          "name" : "Skeleton Dragons"
+        },
+        {
+          "elixirCost" : 8,
+          "id" : 26000009,
+          "level" : 11,
+          "name" : "Golem"
+        }
+      ],
+      "id" : "26000009-26000027-26000035-26000063-26000080-27000007-28000012-28000015",
+      "owners" : [
+        {
+          "name" : "Gara",
+          "rank" : 99,
+          "tag" : "#PP2C9LVG",
+          "trophies" : 14000
+        }
+      ],
+      "usageCount" : 1
+    },
+    {
+      "cards" : [
+        {
+          "elixirCost" : 4,
+          "id" : 26000011,
+          "level" : 14,
+          "name" : "Valkyrie"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 26000039,
+          "level" : 14,
+          "name" : "Mega Minion"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000015,
+          "level" : 11,
+          "name" : "Baby Dragon"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000018,
+          "level" : 14,
+          "name" : "Mini P.E.K.K.A"
+        },
+        {
+          "elixirCost" : 8,
+          "id" : 26000009,
+          "level" : 11,
+          "name" : "Golem"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000012,
+          "level" : 11,
+          "name" : "Tornado"
+        },
+        {
+          "elixirCost" : 3,
+          "id" : 28000026,
+          "level" : 11,
+          "name" : "Vines"
+        },
+        {
+          "elixirCost" : 4,
+          "id" : 26000027,
+          "level" : 11,
+          "name" : "Dark Prince"
+        }
+      ],
+      "id" : "26000009-26000011-26000015-26000018-26000027-26000039-28000012-28000026",
+      "owners" : [
+        {
+          "name" : "ᴋᴇᴠ✨",
+          "rank" : 100,
+          "tag" : "#RCR9PUV9",
+          "trophies" : 11380
+        }
+      ],
+      "usageCount" : 1
+    }
+  ],
+  "date" : "20260606",
+  "generatedAt" : "2026-06-06T01:13:34Z",
+  "kind" : "leaderboard-decks",
+  "leaderboard" : {
+    "id" : 57000000,
+    "name" : "Ranked"
+  },
+  "schemaVersion" : 1,
+  "stats" : {
+    "playersFailed" : 0,
+    "playersWithDeck" : 100,
+    "rankingCount" : 100,
+    "requestedLimit" : 100,
+    "uniqueDecks" : 76
+  }
+}
