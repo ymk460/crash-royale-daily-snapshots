@@ -15,6 +15,12 @@
       "id" : 58000000,
       "latest" : "20260606",
       "name" : "Clan Ranking"
+    },
+    {
+      "directory" : "ranking_clans",
+      "id" : 59000000,
+      "latest" : "20260606",
+      "name" : "Ranking Clans"
     }
   ],
   "schemaVersion" : 2
