@@ -1,25 +1,25 @@
 {
   "dates" : [
-    "20260606"
+    "20260610"
   ],
-  "latest" : "20260606",
+  "latest" : "20260610",
   "leaderboards" : [
     {
       "directory" : "ranking",
       "id" : 57000000,
-      "latest" : "20260606",
+      "latest" : "20260610",
       "name" : "Ranked"
     },
     {
       "directory" : "clan_ranking",
       "id" : 58000000,
-      "latest" : "20260606",
+      "latest" : "20260610",
       "name" : "Clan Ranking"
     },
     {
       "directory" : "ranking_clans",
       "id" : 59000000,
-      "latest" : "20260606",
+      "latest" : "20260610",
       "name" : "Ranking Clans"
     }
   ],
