@@ -1,0 +1,20 @@
+{
+  "aggregatedDecks" : [
+
+  ],
+  "date" : "20260610",
+  "generatedAt" : "2026-06-10T12:40:20Z",
+  "kind" : "leaderboard-decks",
+  "leaderboard" : {
+    "id" : 59000000,
+    "name" : "Ranking Clans"
+  },
+  "schemaVersion" : 1,
+  "stats" : {
+    "playersFailed" : 0,
+    "playersWithDeck" : 0,
+    "rankingCount" : 0,
+    "requestedLimit" : 0,
+    "uniqueDecks" : 0
+  }
+}
