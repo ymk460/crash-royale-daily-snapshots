@@ -1,94 +1,118 @@
 [
   {
     "cardID" : 26000001,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 26000002,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.0625
   },
   {
     "cardID" : 26000005,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 26000009,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 26000011,
-    "usageRate" : 0.08333333333333333
+    "usageRate" : 0.09375
   },
   {
     "cardID" : 26000015,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 26000018,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
+  },
+  {
+    "cardID" : 26000021,
+    "usageRate" : 0.03125
+  },
+  {
+    "cardID" : 26000030,
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 26000033,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
+  },
+  {
+    "cardID" : 26000045,
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 26000050,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 26000051,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 26000052,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 26000055,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 26000057,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 27000010,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 27000013,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 28000000,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
+  },
+  {
+    "cardID" : 28000003,
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 28000004,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 28000008,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 28000009,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
+  },
+  {
+    "cardID" : 28000011,
+    "usageRate" : 0.03125
+  },
+  {
+    "cardID" : 28000012,
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 28000015,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 28000018,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 28000025,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   },
   {
     "cardID" : 28000026,
-    "usageRate" : 0.041666666666666664
+    "usageRate" : 0.03125
   }
 ]
