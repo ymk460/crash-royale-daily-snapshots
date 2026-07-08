@@ -1,142 +1,214 @@
 [
   {
     "cardID" : 26000000,
-    "usageRate" : 0.025
+    "usageRate" : 0.0625
+  },
+  {
+    "cardID" : 26000001,
+    "usageRate" : 0.03125
+  },
+  {
+    "cardID" : 26000005,
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 26000006,
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 26000007,
+    "usageRate" : 0.03125
+  },
+  {
+    "cardID" : 26000008,
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 26000010,
-    "usageRate" : 0.025
+    "usageRate" : 0.052083333333333336
   },
   {
     "cardID" : 26000011,
-    "usageRate" : 0.025
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 26000012,
-    "usageRate" : 0.025
+    "usageRate" : 0.020833333333333332
+  },
+  {
+    "cardID" : 26000013,
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 26000014,
+    "usageRate" : 0.020833333333333332
+  },
+  {
+    "cardID" : 26000016,
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 26000017,
-    "usageRate" : 0.025
+    "usageRate" : 0.020833333333333332
   },
   {
     "cardID" : 26000018,
-    "usageRate" : 0.05
-  },
-  {
-    "cardID" : 26000020,
-    "usageRate" : 0.025
+    "usageRate" : 0.020833333333333332
   },
   {
     "cardID" : 26000021,
-    "usageRate" : 0.05
+    "usageRate" : 0.03125
   },
   {
-    "cardID" : 26000022,
-    "usageRate" : 0.025
+    "cardID" : 26000024,
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 26000025,
-    "usageRate" : 0.025
+    "usageRate" : 0.010416666666666666
   },
   {
-    "cardID" : 26000029,
-    "usageRate" : 0.025
+    "cardID" : 26000026,
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 26000030,
-    "usageRate" : 0.025
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 26000031,
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 26000034,
+    "usageRate" : 0.020833333333333332
   },
   {
     "cardID" : 26000040,
-    "usageRate" : 0.025
+    "usageRate" : 0.020833333333333332
   },
   {
     "cardID" : 26000044,
-    "usageRate" : 0.025
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 26000046,
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 26000047,
-    "usageRate" : 0.025
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 26000049,
-    "usageRate" : 0.025
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 26000050,
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 26000051,
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 26000055,
-    "usageRate" : 0.025
+    "usageRate" : 0.052083333333333336
   },
   {
     "cardID" : 26000056,
-    "usageRate" : 0.025
+    "usageRate" : 0.020833333333333332
   },
   {
     "cardID" : 26000058,
-    "usageRate" : 0.025
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 26000061,
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 26000062,
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 26000064,
-    "usageRate" : 0.025
+    "usageRate" : 0.020833333333333332
   },
   {
-    "cardID" : 26000065,
-    "usageRate" : 0.025
-  },
-  {
-    "cardID" : 26000080,
-    "usageRate" : 0.025
+    "cardID" : 26000074,
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 26000084,
-    "usageRate" : 0.025
+    "usageRate" : 0.041666666666666664
   },
   {
-    "cardID" : 26000102,
-    "usageRate" : 0.05
+    "cardID" : 26000097,
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 26000106,
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 27000000,
-    "usageRate" : 0.025
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 27000002,
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 27000003,
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 27000006,
-    "usageRate" : 0.025
+    "usageRate" : 0.041666666666666664
   },
   {
-    "cardID" : 27000009,
-    "usageRate" : 0.025
+    "cardID" : 27000008,
+    "usageRate" : 0.020833333333333332
+  },
+  {
+    "cardID" : 27000013,
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 28000000,
-    "usageRate" : 0.05
-  },
-  {
-    "cardID" : 28000001,
-    "usageRate" : 0.05
+    "usageRate" : 0.041666666666666664
   },
   {
     "cardID" : 28000004,
-    "usageRate" : 0.025
+    "usageRate" : 0.03125
+  },
+  {
+    "cardID" : 28000005,
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 28000008,
-    "usageRate" : 0.025
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 28000009,
+    "usageRate" : 0.010416666666666666
   },
   {
     "cardID" : 28000011,
-    "usageRate" : 0.025
-  },
-  {
-    "cardID" : 28000014,
-    "usageRate" : 0.025
+    "usageRate" : 0.052083333333333336
   },
   {
     "cardID" : 28000015,
-    "usageRate" : 0.025
+    "usageRate" : 0.010416666666666666
   },
   {
-    "cardID" : 28000025,
-    "usageRate" : 0.025
+    "cardID" : 28000017,
+    "usageRate" : 0.010416666666666666
+  },
+  {
+    "cardID" : 28000018,
+    "usageRate" : 0.010416666666666666
   }
 ]
