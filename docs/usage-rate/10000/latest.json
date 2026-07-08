@@ -1,34 +1,3 @@
 [
-  {
-    "cardID" : 26000010,
-    "usageRate" : 0.125
-  },
-  {
-    "cardID" : 26000021,
-    "usageRate" : 0.125
-  },
-  {
-    "cardID" : 26000064,
-    "usageRate" : 0.125
-  },
-  {
-    "cardID" : 26000065,
-    "usageRate" : 0.125
-  },
-  {
-    "cardID" : 26000084,
-    "usageRate" : 0.125
-  },
-  {
-    "cardID" : 27000006,
-    "usageRate" : 0.125
-  },
-  {
-    "cardID" : 28000014,
-    "usageRate" : 0.125
-  },
-  {
-    "cardID" : 28000015,
-    "usageRate" : 0.125
-  }
+
 ]
