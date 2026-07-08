@@ -1,0 +1,34 @@
+[
+  {
+    "cardID" : 26000000,
+    "usageRate" : 0.125
+  },
+  {
+    "cardID" : 26000006,
+    "usageRate" : 0.125
+  },
+  {
+    "cardID" : 26000015,
+    "usageRate" : 0.125
+  },
+  {
+    "cardID" : 26000034,
+    "usageRate" : 0.125
+  },
+  {
+    "cardID" : 26000037,
+    "usageRate" : 0.125
+  },
+  {
+    "cardID" : 28000005,
+    "usageRate" : 0.125
+  },
+  {
+    "cardID" : 28000012,
+    "usageRate" : 0.125
+  },
+  {
+    "cardID" : 28000015,
+    "usageRate" : 0.125
+  }
+]
