@@ -12,5 +12,19 @@
     ],
     "playerName" : "Clasher",
     "playerTag" : "#VPVCCUCJ0"
+  },
+  {
+    "cards" : [
+      28000004,
+      26000027,
+      28000017,
+      26000030,
+      26000054,
+      28000003,
+      26000026,
+      26000053
+    ],
+    "playerName" : "Anfield",
+    "playerTag" : "#Y0CUY0C9"
   }
 ]
