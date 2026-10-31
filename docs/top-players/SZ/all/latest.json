@@ -12,5 +12,33 @@
     ],
     "playerName" : "The Mad King",
     "playerTag" : "#LGG98C28"
+  },
+  {
+    "cards" : [
+      26000040,
+      26000000,
+      26000045,
+      28000007,
+      26000021,
+      28000018,
+      28000001,
+      26000030
+    ],
+    "playerName" : "Dazed Bruiser",
+    "playerTag" : "#2V2JJVRVY"
+  },
+  {
+    "cards" : [
+      26000015,
+      26000034,
+      26000000,
+      27000001,
+      28000015,
+      26000085,
+      28000007,
+      28000012
+    ],
+    "playerName" : "KingKong",
+    "playerTag" : "#98200LL0J"
   }
 ]
